@@ -151,4 +151,4 @@ Everything looks good! ヽ(‘ー`)ノ
 
 恭喜！你已经成功写完了第一个Jepsen测试，我在[2014](https://aphyr.com/posts/316-jepsen-etcd-and-consul)年提出了这个issue，并且联系了etcd开发团队请他们介绍*quorum*读机制。
 
-休息一下吧，这是你应得的！如果你喜欢的话，可以继续[完善Jepsen测试](https://github.com/jaydenwen123/jepsen/blob/main/doc/cn_tutorial/06-cn-refining.md)
+休息一下吧，这是你应得的！如果你喜欢的话，可以继续[完善Jepsen测试](06-cn-refining.md)
