@@ -163,4 +163,4 @@ $ lein run test
 $ open store/latest/timeline.html
 ```
 
-现在我们已经通过测试，接下来详述系统中的[故障引入](https://github.com/jaydenwen123/jepsen/blob/main/doc/cn_tutorial/05-cn-nemesis.md)
+现在我们已经通过测试，接下来详述系统中的[故障引入](../05-cn-nemesis.md)
